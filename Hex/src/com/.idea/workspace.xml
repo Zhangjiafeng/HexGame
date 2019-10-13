@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34fe22cc-4c1b-4182-af57-329bfaaaa6cf" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/Hex1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Hex1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/AIObject$AIHistoryObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/AIObject$AIHistoryObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/AIObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/AIObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/Button_events.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/Button_events.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/EvaluationNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/EvaluationNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/GameAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/GameAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/GameObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/GameObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/HexGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/HexGame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/HumanObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/HumanObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/Menu_events.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/Menu_events.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/Move.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/Move.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/MoveList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/MoveList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/MoveNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/MoveNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/PolygonButton$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/PolygonButton$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/PolygonButton$posDir.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/PolygonButton$posDir.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/out/production/Hex1/com/PolygonButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../out/production/Hex1/com/PolygonButton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/AIObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/AIObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/Button_events.java" beforeDir="false" afterPath="$PROJECT_DIR$/Button_events.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/GameAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameAction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/GameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/GameObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/HexGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/HexGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/HumanObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/HumanObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/Menu_events.java" beforeDir="false" afterPath="$PROJECT_DIR$/Menu_events.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/MoveList.java" beforeDir="false" afterPath="$PROJECT_DIR$/MoveList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/MoveNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/MoveNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Hex1/src/com/PolygonButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/PolygonButton.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1S9UkzzcprHzTGkpLCC2l24NHP8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34fe22cc-4c1b-4182-af57-329bfaaaa6cf" name="Default Changelist" comment="" />
+      <created>1570975451692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570975451692</updated>
+      <workItem from="1570975454048" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
