@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/HexGame.iml" filepath="$PROJECT_DIR$/.idea/HexGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hex.iml" filepath="$PROJECT_DIR$/.idea/Hex.iml" />
     </modules>
   </component>
 </project>
